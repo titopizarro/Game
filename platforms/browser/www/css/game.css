@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #fdcf58;
+}
+
+body.agitado{
+  background-color: #800909;
+  background-color: #ff0000;
+}
+
+div.lectura{
+  display: block;
+  background-color: #f27d0c;
+  color: #800909;
+  border: none;
+  width: 50%;
+  padding: 30px;
+  font-size: 2em;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
