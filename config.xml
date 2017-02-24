@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>War of Vegetables - Guerra de Vegetales</name>
+    <name>War of Vegetables</name>
     <description>
         The game is about a child who is at war with vegetables, so you must shoot them and exterminate them all by making use of the accelerometer of the mobile, each that removes a vegetable rises the level of difficulty and the bullets have a limit.
         The game instructions are as follows:
@@ -18,8 +18,8 @@
         •   Al tocar los bordes del móvil pierdes puntos. 
         Suerte, a matar vegetales.
     </description>
-    <author email="titomauriciopizarroochoa@gmail.com" href="https://github.com/titopizarro">
-        Tito Mauricio Pizarro Ochoa
+    <author email="support@phonegap.com" href="https://github.com/JedWatson">
+        Jed Watson and the PhoneGap Team
     </author>
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
